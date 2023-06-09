@@ -1,3 +1,9 @@
+# DevAn101_Lemonade
+
+Приложение игра для выжимания лимонада из лимонов. Состояние сохраняется через state machine и onSaveInstanceState.
+
+<img src="Screenshot_20230609_002502.png" width=80%>
+
 Project: Lemonade App - Starter Code
 ==================================
 
